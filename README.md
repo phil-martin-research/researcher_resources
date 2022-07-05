@@ -1,12 +1,15 @@
 # Resources for (ecological) researchers
 
-If you are an ecological researcher you need to write papers and sometimes give presentations about them. However, it's rare to get taught how to do the things we need to do these tasks- it's kinda expected that you will just make all this happen. In my experience, this approach doesn't work very well. Most theses and papers are frustratingly badly written, often with ugly figures, and academic talks are often pretty boring, even if the subject matter is actually fascinating.  
+If you are an researcher you need to write papers and sometimes give presentations about them. However, it's rare to get taught how to do the things we need to know in order to do these tasks- it's kinda expected that you will just make all this happen. In my experience, this approach doesn't work very well. Most theses and papers are frustratingly badly written, often with ugly figures, and academic talks are often pretty boring, even if the subject matter is actually fascinating.  
 
-This is a curated collection of notes and resources to help researchers write papers, produce figures, and give better talks. I put this this collection together for student collaborators of mine who I thought might find it useful, but if you don't fit into that box and still find this useful, then great! I'm also happy to take any suggestions for things I could add to the list.
+This is a curated collection of notes and resources to help researchers write papers, produce figures, and give better talks. I put this this collection together for student collaborators of mine who I thought might find it useful, but if you don't fit into that box and still find this useful, then great! I plan to constantly refine this collection so I'm also happy to take any suggestions for things I could add to the list or things you think I should modify. The collection is biased towards the kind of thing I work in, ecology and conservation, and I have no idea how well it transfers to other scientific disciplines. 
 
 ## Writing
 
-Good scientific writing is concise, precise, and interesting. The method that I like to use to structure and write papers follows that suggested on the [Conservation Bytes blog, which you can see here.](https://conservationbytes.com/2012/10/22/how-to-write-a-scientific-paper/) Below is a summary of the post which I have paraphrased.
+Good scientific writing is concise, precise, and interesting.
+
+
+The method that I like to use to structure and write papers follows that suggested on the [Conservation Bytes blog, which you can see here.](https://conservationbytes.com/2012/10/22/how-to-write-a-scientific-paper/) Below is a summary of the post which I have paraphrased.
 
 ### How to write a scientific article
 
@@ -37,6 +40,7 @@ The biggest difference between a dissertation and a paper is the length. Dissert
 
 ### Resources on writing
 
+* [Righting scientific writing](https://coreybradshaw.files.wordpress.com/2012/10/brown-et-al-1993-rangelands-j.pdf) - This paper is the inspiration for a lot of the ideas in the method I described above, but is worth a read because it gives a bit more detail on certain sections.
 * [How to write a scientific paper](https://conservationbytes.com/2012/10/22/how-to-write-a-scientific-paper/)
 * [Writing a scientific article: A step-by-step guide for beginners](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606?casa_token=LBXWgctb91AAAAAA:IFwAYRgptf03xFpXUpZl8O0fiERcSg417-CMoMbyw_r57yxOhnb97mdmf3_ABD3MTvz6nm8G)
 * [The five pivotal paragraphs of a paper](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/)
@@ -56,6 +60,27 @@ The biggest difference between a dissertation and a paper is the length. Dissert
 * [Data sketches](https://www.datasketch.es/)
 
 # Giving presentations
+
+Most scientific presentations are **not good**. Most of them don't even approach good. I'm not even sure that most scientists even know what a good talk looks like. Although I don't think I can make all talks good, I can definately provide people with a recipe to make their talks better. Boiled down to three key points, this recipe is are:
+
+1. Plan what you want to say before you do anything else
+2. Turn this plan into simple, uncluttered, and attractive slides
+3. Practice the hell out of your talk
+
+Below I go into more detail about each of these stages.
+
+## Plan what you want to say
+
+It seems obvious that you would plan what you want to say before you start putting together your slides for a presentation. However, in my experience, people start with the slides and then work out what they want to say. This wastes time because you foten have to rework your slides and also risks you not getting your message accross to your audience.
+
+When planning your talk one key thing to remember is that your talk should not be your paper/thesis read out loud with accompanying figures. It is it's own thing. Text as written in a paper would sound a bit strange coming out of a person's mouth. We should also think the same way about all the elements of a talk (e.g. the figures/tables etc).
+
+When planning your talk, the following structure can be helpful
+
+1. **Identify your audience** - What are they intersted in?
+2. **Identify the key message of your talk** - What is the overarching thing that you want people to take away from your talk? Write it down in 25 words or less. 
+3. **Brainstorm the talk** - Identify the key content you want to include to support the key message of your talk and its broad structure. For a talk at a scientific conference, don't just stick to the traditional structure that you find in papers. This is incredibly boring. Think creatively about the structure. Ideally the structure should mirror that of a story with a narrative arc. Often, in science (particularly in ecology and conservation) this will be something akin to a quest of some sort, where we identify something important (e.g. forests), a threat to them (e.g. deforestation), and then talk about our quest to solve an aspect of this problem.
+4. **Think about how to hook your audience** - You only get a short time to grab the attention of any audience before they start to switch off, so come out swinging. Think of where the interests of your audience and your main message overlap and work on coming up with something that will get them engaged from the beginning. Things that can work particuarly well are 
 
 Here are my must follow rules for slide design:
 
