@@ -6,7 +6,7 @@ This is a curated collection of notes and resources to help researchers write pa
 
 ## Writing
 
-Good scientific writing is concise, precise, and interesting. The method that I like to use to structure and write papers follows that suggested on the [Conservation Bytes blog, which you can see here.] Below is a summary of the post which I have paraphrased.
+Good scientific writing is concise, precise, and interesting. The method that I like to use to structure and write papers follows that suggested on the [Conservation Bytes blog, which you can see here.](https://conservationbytes.com/2012/10/22/how-to-write-a-scientific-paper/) Below is a summary of the post which I have paraphrased.
 
 ### How to write a scientific article
 
