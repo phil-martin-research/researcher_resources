@@ -52,7 +52,7 @@ The biggest difference between a dissertation and a paper is the length. Dissert
 * [Viz Palette](https://medium.com/@Elijah_Meeks/viz-palette-for-data-visualization-color-8e678d996077) - a tool to help you to evaluate and improve your palette
 * [Using colour as a tool in presentations](https://twitter.com/iamscicomm/status/1531651972776054785)
 * [Top 50 ggplot2 visualisations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
-* {the R graph gallery](https://r-graph-gallery.com/)
+* [The R graph gallery](https://r-graph-gallery.com/)
 * [Data sketches](https://www.datasketch.es/)
 
 # Giving presentations
