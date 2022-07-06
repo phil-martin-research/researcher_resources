@@ -30,7 +30,7 @@ The method that I like to use to structure and write papers follows that suggest
     5. **Circulate your plan** Send the skeleton plan of the paper to you co-authors and invite feedback. Indicate that you want critical feedback of the structure now, in order to fix any problems early on.
 9. **Write the paragraphs.** Because of the structure and flow of the paper is already established you can now write the paragraphs in whatever order you want. This really helps because some sections area easier (for me the methods and results) than others (the discussion) and so allows you to get some text down - helping with writers block. 
 10. **Revise the working abstract** Convert the abstract into a final draft form based on how the paper has changed suring the writing phase.
-11. **Circulare the draft** Circulate the draft manuscript to co-authors and give them enough time (2 weeks?) for feedback.
+11. **Circulate the draft** Circulate the draft manuscript to co-authors and give them enough time (2 weeks?) for feedback.
 
 #### Modifications for student disserations
 
@@ -46,6 +46,7 @@ The biggest difference between a dissertation and a paper is the length. Dissert
 * [Writing a scientific article: A step-by-step guide for beginners](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606?casa_token=LBXWgctb91AAAAAA:IFwAYRgptf03xFpXUpZl8O0fiERcSg417-CMoMbyw_r57yxOhnb97mdmf3_ABD3MTvz6nm8G) - This covers the basics of writing a paper with detail on what needs to be covered in each section etc.
 * [An annotated abstract, showing all the important sections](https://twitter.com/ItaiYanai/status/1470731648702496769/photo/1)
 * [How to write a paper](https://twitter.com/pash22/status/1433831732353064965)
+* [How to unfuck your writing](https://thesiswhisperer.com/2022/06/01/how-to-unfuck-your-writing-a-check-list/)
 
 ## Producing figures
 
