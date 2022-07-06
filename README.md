@@ -36,15 +36,15 @@ The method that I like to use to structure and write papers follows that suggest
 
 The method above applies pretty well to writing student undergraduate and masters dissertations, but a few tweaks are needed. For PhD theses, you should think of each chapter as a paper, so in this case it's safe to follow the above guidance to the letter.
 
-The biggest difference between a dissertation and a paper is the length. Dissertations are generally allowed to be longer than the average published paper. So when you set yourself a limit for the lengh of the piece of work (point 8) modify this based on the guidance that your institution gives you. The same goes for the number of display items (point 6) - you may want to include more than 6 display items. This is fine.
+The biggest difference between a dissertation and a paper is the length. Dissertations are generally allowed to be longer than the average published paper and in some cases this is a requirement. So when you set yourself a limit for the lengh of the piece of work (point 8) modify this based on the guidance that your institution gives you. The same goes for the number of display items (point 6) - you may want to include more than 6 display items. This is fine. 
 
 ### Resources on writing
 
+* [The five pivotal paragraphs of a paper](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/) - This is a great blog post that discusses the key pivotal paragaphs of a paper. Highly recommended.
 * [Righting scientific writing](https://coreybradshaw.files.wordpress.com/2012/10/brown-et-al-1993-rangelands-j.pdf) - This paper is the inspiration for a lot of the ideas in the method I described above, but is worth a read because it gives a bit more detail on certain sections.
-* [How to write a scientific paper](https://conservationbytes.com/2012/10/22/how-to-write-a-scientific-paper/)
-* [Writing a scientific article: A step-by-step guide for beginners](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606?casa_token=LBXWgctb91AAAAAA:IFwAYRgptf03xFpXUpZl8O0fiERcSg417-CMoMbyw_r57yxOhnb97mdmf3_ABD3MTvz6nm8G)
-* [The five pivotal paragraphs of a paper](https://dynamicecology.wordpress.com/2016/02/24/the-5-pivotal-paragraphs-in-a-paper/)
-* [An annotated abstract, showing all the important secionts](https://twitter.com/ItaiYanai/status/1470731648702496769/photo/1)
+* [How to write a scientific paper](https://conservationbytes.com/2012/10/22/how-to-write-a-scientific-paper/) - This is the source of the method that I describe above, it has a bit more detail than I give here.
+* [Writing a scientific article: A step-by-step guide for beginners](https://www.sciencedirect.com/science/article/abs/pii/S1878764915001606?casa_token=LBXWgctb91AAAAAA:IFwAYRgptf03xFpXUpZl8O0fiERcSg417-CMoMbyw_r57yxOhnb97mdmf3_ABD3MTvz6nm8G) - This covers the basics of writing a paper with detail on what needs to be covered in each section etc.
+* [An annotated abstract, showing all the important sections](https://twitter.com/ItaiYanai/status/1470731648702496769/photo/1)
 * [How to write a paper](https://twitter.com/pash22/status/1433831732353064965)
 
 ## Producing figures
@@ -86,8 +86,9 @@ When planning your talk, the following structure can be helpful
 7. **Design your slides** - Now you can start to design your slides. It may be useful to sketch out roughly what you want slides to look like before you start to put them together in powerpoint or whatever you use. I could write a whole guide on how to design good slides, but here are some good general rules to follow:
     1. **Don't use lots of text on a slide** A slide is a visual aid, it is not your presentation. You should only read the text from your slides sparingly. Most slides should have little to no text, apart from summary slides.
     2. **Use large fonts** I've been to too many talks where people say "Sorry if you can't see this at the back of the room." Design your slides for the person at the back of the room. This means that all text should generally have a point size of at least 30. This also goes for figures. If you are going to use figures from a paper/dissertation you are working on, redraw them for the presentation with bigger text and larger symbols.
-    3. **Use good images** There are lots of resources for free images available online (such as those listed [here](https://twitter.com/rodriguesjm6/status/1476580189316562953)), so use them. Make sure to get high resolution images so that they look crisp on a big screen.
-    4. **One idea per slide** Don't be tempted to cram more than one idea onto a slide. If you have more than one figure that you want to put into a section of the talk, use seperate slides.   
+    3. **Use sans serif fonts** The best fonts to use for a presentation are ones that are easy to read. This usually means using simple, clean sans serif fonts. Good fonts for presentations available in Powerpoint include Futura, Verdana, Tahoma, and Gill Sans.
+    4. **Use good images** There are lots of resources for free images available online (such as those listed [here](https://twitter.com/rodriguesjm6/status/1476580189316562953)), so use them. Make sure to get high resolution images so that they look crisp on a big screen.
+    5. **One idea per slide** Don't be tempted to cram more than one idea onto a slide. If you have more than one figure that you want to put into a section of the talk, use seperate slides. Similarly, if you want to make more than one point using an image or text (apart from maybe a summary slide at the end) it's best to do this using more than one slide.
 
 Here are my must follow rules for slide design:
 
