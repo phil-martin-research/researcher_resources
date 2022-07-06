@@ -78,29 +78,21 @@ When planning your talk one key thing to remember is that your talk should not b
 
 When planning your talk, the following structure can be helpful
 
-1. **Identify your audience** - What are they interested in?
-2. **Identify the key message of your talk** - What is the overarching thing that you want people to take away from your talk? Write it down in 25 words or less. 
+1. **Identify your audience** What are they interested in? What is their previous knowledge on the topic you will talk about?
+2. **Identify the key message of your talk** What is the overarching thing that you want people to take away from your talk? Write it down in 25 words or less. 
 3. **Brainstorm the talk** - Identify the key content you want to include to support the key message of your talk and its broad structure. For a talk at a scientific conference, don't just stick to the traditional structure that you find in papers. This is incredibly boring. Think creatively about the structure. Ideally the structure should mirror that of a story with a narrative arc. Often, in science (particularly in ecology and conservation) this will be something akin to a quest of some sort, where we identify something important (e.g. forests), a threat to them (e.g. deforestation), and then talk about our quest to solve an aspect of this problem.
-4. **Think about how to hook your audience** - You only get a short time to grab the attention of any audience before they start to switch off, so come out swinging. Think of where the interests of your audience and your main message overlap and work on coming up with something that will get them engaged from the beginning. Things that can work particuarly well are starting with a question, starting with an eye-opening statistic, or jumping straight into a topic with no intro (aka a [cold open](https://en.wikipedia.org/wiki/Cold_open)). Be creative and think about what will get people engaged. Think about how to transition between your hook and your main message.
-5. **Plan the content of the talk** - Create a draft outline of the talk with a sentance (~15 words) for each major point you want to get across in the presentation. Rework the ordering of this until you are happy with the structure.
-6. **Write the talk** - Personally, I write out almost exactly what I want to say for a presentation and learn this. This doesn't work for everyone, but it's helpful to have a reasonably detailed plan of what you want to say.
-7. **Design your slides** - Now you can start to design your slides. It may be useful to sketch out roughly what you want slides to look like before you start to put them together in powerpoint or whatever you use. I could write a whole guide on how to design good slides, but here are some good general rules to follow:
+4. **Think about how to hook your audience** You only get a short time to grab the attention of any audience before they start to switch off, so come out swinging. Think of where the interests of your audience and your main message overlap and work on coming up with something that will get them engaged from the beginning. Things that can work particuarly well are starting with a question, starting with an eye-opening statistic, or jumping straight into a topic with no intro (aka a [cold open](https://en.wikipedia.org/wiki/Cold_open)). Be creative and think about what will get people engaged. Think about how to transition between your hook and your main message.
+5. **Plan the content of the talk** Create a draft outline of the talk with a sentance (~15 words) for each major point you want to get across in the presentation. Rework the ordering of this until you are happy with the structure.
+6. **Write the talk** Personally, I write out almost exactly what I want to say for a presentation and learn this. This doesn't work for everyone, but it's helpful to have a reasonably detailed plan of what you want to say.
+7. **Design your slides** Now you can start to design your slides. It may be useful to sketch out roughly what you want slides to look like before you start to put them together in powerpoint or whatever you use. I could write a whole guide on how to design good slides, but here are some good general rules to follow:
     1. **Don't use lots of text on a slide** A slide is a visual aid, it is not your presentation. You should only read the text from your slides sparingly. Most slides should have little to no text, apart from summary slides.
     2. **Use large fonts** I've been to too many talks where people say "Sorry if you can't see this at the back of the room." Design your slides for the person at the back of the room. This means that all text should generally have a point size of at least 30. This also goes for figures. If you are going to use figures from a paper/dissertation you are working on, redraw them for the presentation with bigger text and larger symbols.
     3. **Use sans serif fonts** The best fonts to use for a presentation are ones that are easy to read. This usually means using simple, clean sans serif fonts. Good fonts for presentations available in Powerpoint include Futura, Verdana, Tahoma, and Gill Sans.
     4. **Use good images** There are lots of resources for free images available online (such as those listed [here](https://twitter.com/rodriguesjm6/status/1476580189316562953)), so use them. Make sure to get high resolution images so that they look crisp on a big screen.
     5. **One idea per slide** Don't be tempted to cram more than one idea onto a slide. If you have more than one figure that you want to put into a section of the talk, use seperate slides. Similarly, if you want to make more than one point using an image or text (apart from maybe a summary slide at the end) it's best to do this using more than one slide.
-
-Here are my must follow rules for slide design:
-
-1. Don't read out text from slides
-2. Use a large font
-3. Use emphasis
-4. Use good images
-5. Use white space
-6. Be consistent
-7. Skip animations
-8. Create the slides last
+    6. **Be consistent** Use the same fonts and colours thoughout your slides, otherwise your talk will look less professional and jumbled.
+    7. **Avoid animations** Animations generally make your presentation look a bit cheap and distract people from your actual message. Therefore it´s best to avoid animations. The only ones that are worth using are the ones that animate bullet points where you want to talk about one topic at a time (e.g. on a summary slide) or the ones that allow you to change the emphasis of text (e.g. by changing the colour of certain bits of text).
+8. **Practice, practice, practice (and edit your talk)** In order to give a good talk, you need to practice it. Practice until you are comfortable saying what you want without looking at a script. One way to get a good idea of how your talk comes across is to film yourself giving it. It is uncomfortable to watch yourself but it can be incredibly useful for working out what comes across well. Practicing your talk out-loud also makes it clear which parts of your talk work and which don't, so following practice sessions it can be useful to edit the content.
 
 ### Resources on giving presentations
 * [Ten simple rules for making good oral presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.0030077&utm_source=pocket_mylist)
