@@ -58,6 +58,7 @@ The biggest difference between a dissertation and a paper is the length. Dissert
 * [Top 50 ggplot2 visualisations](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
 * [The R graph gallery](https://r-graph-gallery.com/)
 * [Data sketches](https://www.datasketch.es/)
+* [Data visualisation resources in R](https://github.com/krzjoa/awesome-r-dataviz)
 
 # Giving presentations
 
