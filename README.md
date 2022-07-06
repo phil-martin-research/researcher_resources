@@ -62,13 +62,13 @@ The biggest difference between a dissertation and a paper is the length. Dissert
 
 # Giving presentations
 
-Most scientific presentations are **not good**. Most of them don't even approach good. I'm not even sure that most scientists even know what a good talk looks like. Although I don't think I can make all talks good, I can definately provide people with a recipe to make their talks better. Boiled down to three key points, this recipe is are:
+Most scientific presentations are **not good**. Most of them don't even approach good. I'm not even sure that most scientists even know what a good talk looks like. Although I don't think I can make all talks good, I can definately provide people with a recipe to make their talks better. The three key points of this recipe is are:
 
 1. Plan what you want to say before you do anything else
 2. Turn this plan into simple, uncluttered, and attractive slides
 3. Practice the hell out of your talk
 
-Below I go into more detail about each of these stages.
+If you want a more detailed version of this, see below.
 
 ## Plan what you want to say
 
