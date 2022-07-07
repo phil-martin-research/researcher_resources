@@ -51,6 +51,7 @@ The biggest difference between a dissertation and a paper is the length. Dissert
 ## Producing figures
 
 ### Resources on producing figures
+* [Ten simple rules for better figures](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833)
 * [From data to viz](https://www.data-to-viz.com/)
 * [Pick more beautiful colours for your figures](https://blog.datawrapper.de/beautifulcolors/?utm_source=pocket_mylist)
 * [Which colour scale to use](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
@@ -73,7 +74,7 @@ If you want a more detailed version of this, see below.
 
 ## Plan what you want to say
 
-It seems obvious that you would plan what you want to say before you start putting together your slides for a presentation. However, in my experience, people start with the slides and then work out what they want to say. This wastes time because you foten have to rework your slides and also risks you not getting your message accross to your audience.
+It seems obvious that you would plan what you want to say before you start putting together your slides for a presentation. However, in my experience, people start with the slides and then work out what they want to say. This wastes time because you often have to rework your slides and also risks you not getting your message accross to your audience.
 
 When planning your talk one key thing to remember is that your talk should not be your paper/thesis read out loud with accompanying figures. It is it's own thing. Text as written in a paper would sound a bit strange coming out of a person's mouth. We should also think the same way about all the elements of a talk (e.g. the figures/tables etc).
 
