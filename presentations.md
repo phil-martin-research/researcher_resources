@@ -27,6 +27,7 @@ When planning your talk, the following structure can be helpful
 All that remains now is for you to go out and give your talk. Make sure you take a bottle of water with you on the day to stop your throat from drying out.
 
 ### Resources on giving presentations
+* [Powerpoint presentation I gave on this topic](https://github.com/phil-martin-research/researcher_resources/blob/main/masters_workshop_presentations.pptx)
 * [Ten simple rules for making good oral presentations](https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.0030077&utm_source=pocket_mylist)
 * [Ten simple rules for effective presentation slides](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009554)
 * [Good, free, resources for visuals in presentations](https://twitter.com/rodriguesjm6/status/1476580189316562953)
